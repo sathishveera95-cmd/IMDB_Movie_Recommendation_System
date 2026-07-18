@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Model Files (optional - see note below)
+*.pkl
+
+# OS Files
+.DS_Store
+Thumbs.db
